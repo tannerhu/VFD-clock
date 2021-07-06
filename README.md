@@ -1,3 +1,4 @@
+<p align="center"><img width="500" src="https://image.haxbk.com/blog/vfd-clock2.jpg"></p>
 <h2 align="center">VFD-clock</h2>
 
 ## Introduce
